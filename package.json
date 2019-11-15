@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/setoelkahfi/visma-eaccounting/issues"
   },
-  "homepage": "https://github.com/setoelkahfi/visma-eaccounting#readme"
+  "homepage": "https://github.com/setoelkahfi/visma-eaccounting#readme",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
 }
